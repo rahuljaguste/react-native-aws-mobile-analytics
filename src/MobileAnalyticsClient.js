@@ -1,4 +1,4 @@
-import AWS from 'aws-sdk/dist/aws-sdk-react-native';
+import AWS from 'aws-sdk';
 import Storage from './Storage';
 import StorageKeys from './StorageKeys.js';
 import Util from'./MobileAnalyticsUtilities';
