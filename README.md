@@ -34,7 +34,7 @@ react-native link
 
 Create file `MobileAnalytics.js` where you can do the configuration:
 ```javascript
-import AWS from "aws-sdk/dist/aws-sdk-react-native";
+import AWS from 'aws-sdk';
 import AMA from "react-native-aws-mobile-analytics";
 import {
     Platform,
